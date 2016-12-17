@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "knockout": {
+      "version": "3.4.1",
+      "resolved": "https://registry.npmjs.org/knockout/-/knockout-3.4.1.tgz",
+      "from": "knockout@3.4.1"
+    }
+  }
+}
